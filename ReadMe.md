@@ -1,0 +1,11 @@
+Renewable energy integration
+- Policy and regulation
+- Modeling of variable energy resources
+- Variable energy resources in power system and market operations
+- Forecasting renewables
+- Connecting renewable energy to power grids
+- System flexibility
+- Demand response and distributed energy resources
+- Variable energy resources in island power systems
+- Solar, tidal and wave energy integration
+- Enabling and disruptive technologies for renewable integration
