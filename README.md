@@ -1,4 +1,4 @@
-Renewable energy integration
+#### Renewable energy integration
 - Policy and regulation
 - Modeling of variable energy resources
 - Variable energy resources in power system and market operations
