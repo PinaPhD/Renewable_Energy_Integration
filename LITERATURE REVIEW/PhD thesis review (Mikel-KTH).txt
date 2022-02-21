@@ -1,0 +1,15 @@
+
+Cost-effective communication and control architectures for active low voltage grids
+
+* The required communication and control architectures for enabling ALV distribution grids will not reach the comprehensive monitoring and control capabilities and coverage that is available at the transmission grid level.
+* Regardless of the combination of the technical solutions that will be 
+deployed, the grids will have to be modernized with sensors and actuatrs and an overhead ICT infrastructure to adapt to the new varying conditions in the 
+ALV distribution grids.
+* Wireless and power line communication technologies.
+* A method to perform reliability analyses of communication systems used in ALV distribution grids based on Probabilistic Relational Models (PRM) to indicate the probabilistic dependencies between the components that form the communication system and it is implemented by Monte Carlo (MC) methods. The method can be used for performing reliabilty predictions of simulated communication systems for ALV grids and therefore it can be extended for evaluating the reliability of the communication architecture. 
+* A use case specifies a set of actions that are performed by a system in order to achieve a goal. This goal is established by one or multiple actors which can be persons or systems. The way actors achieve the goal is described by the use case in several scenarios each of which details the sequence of steps of exchanging the information with each other. This information exchange details the functional and non-functional requirements such as data management, quality of service, or security issues. 
+* In the SGAM framework, the use case methodology maps the use case actors into components (devices or applications) within the physical distribution of the smart grid solution, represent the communication protocols and data models necessary to achieve interoperability, and show how the components, protocols and data models relate with the technical functions and business goals of the solution. 
+* The SGAM framework develops case scenarios showing data acquisition. The data acquired by the IED from the smart meters, process&network data management, and meter data concentrator are: events reporting, sequence and imbalance, harmonics&interharmonics, operation alarm supervision, power quality, and alarm supervision. 
+* Grid operations are based on grid operation monitoring, control, fault management, operation feedback analysis, operation statistics & reporting, calculations- real time and dispatcher training sub-functions. 
+* IEC 61968-1 standard
+* IEC 62559 -use case methodology standard series
