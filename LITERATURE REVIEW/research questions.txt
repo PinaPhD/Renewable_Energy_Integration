@@ -1,0 +1,5 @@
+Research Questions:
+1. The co-existence of protection, control, monitoring, and reporting traffic in the same network poses the additional challenge of adaptive QoS differentiation in the smart grid communications network.
+2. What are the applications associated with the smart grid that guarantee a future-proof IoT network architecture in the cloud computing age? Utilities are facing the major challenge of finding the most appropriate technology that can satisfy their current and future communication needs.
+3. In the event of power outage, it is important to send the 'last gasp' alarm to the utility control center. The AMI system facilitates this by ensuring that smart meters have capacitive storage that can power the sending of the message/alarm within 100ms. Is there sufficient network access available to send this alarm?
+4. 
