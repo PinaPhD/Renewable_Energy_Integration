@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T13:48:36.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="9BE4c-eIrKROmU3wn5G9" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T13:52:18.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="FFCKPs-NkDe16KyJWAcI" version="20.1.1" type="github">
   <diagram id="6t7eUEGGgur25yPPoFsE" name="Page-1">
     <mxGraphModel dx="1374" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -246,11 +246,11 @@
         <mxCell id="QmXcPvACowvX1DXjFAPn-126" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#9999FF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.file;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="320.05" y="-268.5" width="20" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="QmXcPvACowvX1DXjFAPn-127" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.data_access;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-360" width="27.9" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QmXcPvACowvX1DXjFAPn-128" value="Cloud&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;(Public/private)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=11;image=img/lib/azure2/compute/Cloud_Services_Classic.svg;fillColor=#66B2FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="896.9200000000001" y="-140" width="83.08" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QmXcPvACowvX1DXjFAPn-127" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.data_access;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-360" width="27.9" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QmXcPvACowvX1DXjFAPn-129" value="Data Center and Control" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.data_center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="748" y="-326.5" width="90" height="81" as="geometry" />
